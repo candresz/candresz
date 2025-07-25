@@ -38,6 +38,7 @@ As I transition into software development, I'm focused on sharpening my skills i
 | [🏦 Homebanking System](https://github.com/candresz/homebanking) | Java, Spring Boot, PostgreSQL | Secure backend banking platform built in a bootcamp team setting. Features credit card logic, transactions, user auth, and API design. |
 | [🎮 Battleship Game](https://github.com/candresz/Battleship) | Python | Console-based game built to practice core logic, functions, and I/O handling |
 | [🐾 Pet Palace](https://github.com/candresz/Pet-Palace) | HTML, CSS | Front-end prototype for an e-commerce pet store |
+| [📝 Text Editor](https://github.com/candresz/text-editor) | Python | Menu-based file editor to manipulate text files with functions like word counting, replace, delete, highlight, and file saving. Designed as a console application with structured functions and user interaction. |
 
 ---
 
