@@ -43,6 +43,12 @@ As I transition into software development, I'm focused on sharpening my skills i
 
 ---
 
+## 🤝 Open Source Contributions
+
+- 🧪 [pytest-dev/pytest](https://github.com/pytest-dev/pytest/pull/13580): Clarified how `pytest_generate_tests` is discovered and behaves differently than other hooks.  
+- 📘 [readthedocs.org](https://github.com/readthedocs/readthedocs.org/pull/11950): Added clear error message when `mkdocs.yml` file is missing.
+
+
 ## 📚 Currently Learning
 
 - Python OOP, Decorators, Property Methods
