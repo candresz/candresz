@@ -1,3 +1,6 @@
+![GitHub followers](https://img.shields.io/github/followers/candresz?label=Follow&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=candresz&label=Profile%20views&color=0e75b6&style=flat)
+
 # 👋 Hi, I’m Carlos Zarate
 🌎 Based in McLean, VA | 🇺🇸  
 📧 [Email](mailto:carlosazarate13@gmail.com) • [LinkedIn](https://www.linkedin.com/in/carlosandresz/) • [GitHub](https://github.com/candresz)
@@ -79,4 +82,10 @@ AWS, CI/CD basics, Flask, FastAPI, Docker, LeetCode-style problem solving
 
 ---
 
-Let’s connect 🚀
+---
+
+## 🚀 Let’s Connect
+
+I'm always open to collaborating on meaningful projects or just chatting about tech, AI, and learning paths.
+
+📫 Reach out via [Email](mailto:carlosazarate13@gmail.com) or [LinkedIn](https://www.linkedin.com/in/carlosandresz/).
