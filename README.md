@@ -39,10 +39,11 @@ As I transition into software development, I'm focused on sharpening my skills i
 | [📘 LeetCode Practice](https://github.com/candresz/leet_code) | Python | My personal solutions to LeetCode problems, organized by topic. Designed to improve my problem-solving and coding interview skills. |
 | [⚽ Corners ML Pipeline](https://github.com/candresz/corners-ml-pipeline) | Python, XGBoost, GCP | ML pipeline to predict corner kick totals in soccer using real match data. Includes explainability (SHAP), automation (Prefect), and cloud readiness. |
 | [🏦 Homebanking System](https://github.com/candresz/homebanking) | Java, Spring Boot, PostgreSQL | Secure backend banking platform built in a bootcamp team setting. Features credit card logic, transactions, user auth, and API design. |
-| [🎮 Battleship Game](https://github.com/candresz/Battleship) | Python | Console-based game built to practice core logic, functions, and I/O handling |
-| [🐾 Pet Palace](https://github.com/candresz/Pet-Palace) | HTML, CSS | Front-end prototype for an e-commerce pet store |
+| [🎮 Battleship Game](https://github.com/candresz/Battleship) | Python | Console-based game built to practice core logic, functions, and I/O handling. |
+| [🐾 Pet Palace](https://github.com/candresz/Pet-Palace) | HTML, CSS | Front-end prototype for an e-commerce pet store. |
 | [📝 Text Editor](https://github.com/candresz/text-editor) | Python | Menu-based file editor to manipulate text files with functions like word counting, replace, delete, highlight, and file saving. Designed as a console application with structured functions and user interaction. |
 | [📗 Chapter-One Bookstore](https://github.com/candresz/chapter-one) | Java (Spring Boot), Vue.js, Bootstrap | Full-stack online bookstore with admin features, client orders, and inventory management. Built with Java backend and Vue.js frontend. |
+| [🎵 Music Collection Manager](https://github.com/candresz/music-collection-manager) | Python | CLI-based app to manage multiple users and their personal music collections. Allows adding, retrieving, updating, deleting, and listing songs with a simple text-based menu. |
 
 ---
 
