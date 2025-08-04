@@ -13,8 +13,6 @@ I’m a curious and motivated learner transitioning into software development, w
 
 Recently, I developed a machine learning pipeline to forecast football match patterns, using tools like XGBoost, SHAP for explainability, and cloud deployment on Google Cloud Platform. This project helped me realize how much I enjoy learning by doing—and how meaningful it is to create something useful from scratch.
 
-I’m currently diving deeper into AI, including supervised learning, model evaluation, and explainability techniques. What excites me most is building AI-powered tools that help people make better decisions—especially in areas like health, finance, and education.
-
 
 🧠 I’m particularly passionate about:
 - **Artificial Intelligence**
