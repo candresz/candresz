@@ -9,9 +9,11 @@
 
 ## 🚀 About Me
 
-I’m a curious and motivated learner transitioning into software development, with a strong interest in artificial intelligence and using technology to solve real-world problems. Over the past few years, I’ve been building a strong foundation in Python, full-stack development, and core math subjects like algebra, calculus, and statistics.
-
-Recently, I developed a machine learning pipeline to forecast football match patterns, using tools like XGBoost, SHAP for explainability, and cloud deployment on Google Cloud Platform. This project helped me realize how much I enjoy learning by doing—and how meaningful it is to create something useful from scratch.
+MSc Computer Science (AI concentration) student with a strong foundation in Python, full-stack development, and applied machine learning.
+Experienced in building end-to-end projects that integrate data, software engineering, and AI to solve real problems. Skilled at quickly learning new
+technologies and applying them in practice, as shown by projects ranging from machine learning models and backend systems to web platforms with
+growing user adoption. Excited to contribute to innovative software and AI solutions in collaborative environments while continuing to grow as a
+developer and problem solver.
 
 
 🧠 I’m particularly passionate about:
